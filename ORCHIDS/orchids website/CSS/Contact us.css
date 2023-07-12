@@ -1,0 +1,71 @@
+p,div {
+  color: white;
+}
+body {
+  background-image: url("../IMAGES/14.jpg");
+  color: black;
+  background-repeat: no-repeat;
+  overflow: auto;
+  margin-top: auto;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+input.submit {
+  background-color: white;
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 200px;
+  font-size: large;
+  box-shadow: 3px 3px 1px black;
+}
+input.search {
+  width: 500px;
+  height: 25px;
+}
+input.fit {
+  width:fit-content;
+  height:fit-content;
+}
+input.message {
+  width: 500px;
+  height: 80px;
+}
+.container {
+  float: right;
+  width: 55%;
+}
+body {
+  font-size: 20px;
+  font-family: Georgia;
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+em {
+  margin: 0%;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  white-space: nowrap;
+}
+p {
+  float: left;
+  width: 40%;
+  font-size: 30px;
+  color: white;
+  background-color: goldenrod;
+  padding:30px;
+
+}
+form{
+  background-color: goldenrod;
+  width: fit-content;
+  margin-left: 20%;
+}
